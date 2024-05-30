@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\models\\unidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\unidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa10524.20075\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa10524.41061\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\Desktop\\TechStore\\WebAPI\\WebAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\Desktop\\TechStore\\WebAPI\\WebAPI\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.40722\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.39522\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.37625\\ApartmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.36080\\ApartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.34807\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.32777\\HostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.30539\\ApartmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|c:\\users\\gorenje\\desktop\\coreapi\\webapplication3\\webapplication3\\migrations\\20240527071947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84537161-A195-4D66-8A14-0E5482603DCA}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\20240527071947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:26:13.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa10524.20075\\jsconfig.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa10524.20075\\jsconfig.json",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa10524.20075\\jsconfig.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa10524.20075\\jsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T14:26:31.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa10524.41061\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa10524.41061\\package.json",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa10524.41061\\package.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa10524.41061\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T14:21:42.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwHMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:23:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:17:52.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:11:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\UniDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\UniDBContext.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\UniDBContext.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\UniDBContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:13:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:46:48.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240527071947_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Migrations\\20240527071947_initial.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20240527071947_initial.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Migrations\\20240527071947_initial.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20240527071947_initial.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:19:47.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T07:21:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Course.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:09:26.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T11:39:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\TechStore\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\TechStore\\WebAPI\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\TechStore\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "..\\..\\TechStore\\WebAPI\\WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T07:16:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:08:58.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\TechStore\\WebAPI\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\..\\TechStore\\WebAPI\\WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\TechStore\\WebAPI\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "..\\..\\TechStore\\WebAPI\\WebAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T07:16:24.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.40722\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.40722\\Startup.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.40722\\Startup.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.40722\\Startup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:56:37.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\Models\\Professor.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:02:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.37625\\ApartmentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.37625\\ApartmentService.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.37625\\ApartmentService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.37625\\ApartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:56:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.36080\\ApartmentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.36080\\ApartmentController.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.36080\\ApartmentController.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.36080\\ApartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:55:51.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.34807\\JwtService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.34807\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.34807\\JwtService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.34807\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:55:38.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HostService.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.32777\\HostService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.32777\\HostService.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.32777\\HostService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.32777\\HostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:55:18.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.39522\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.39522\\Program.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.39522\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.39522\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:56:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.30539\\ApartmentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.30539\\ApartmentService.cs",
+              "ToolTip": "C:\\Users\\Gorenje\\AppData\\Local\\Temp\\Rar$DIa3920.30539\\ApartmentService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3920.30539\\ApartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:54:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\Gorenje\\Desktop\\coreAPI\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T00:13:19.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
